@@ -11,3 +11,4 @@
 |21. |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/urjajindal18/Leetcode/blob/main/Problems/mergeTwoSortedLists.cpp)| 
 |9. |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[JAVA](https://github.com/urjajindal18/Leetcode/blob/main/Problems/9.PalindromNumber)| 
 |2. |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[JAVA](https://github.com/urjajindal18/Leetcode/blob/main/Problems/2.AddTwoNumbers)|
+|13. |[Roamn to Integer](https://leetcode.com/problems/roman-to-integer/)|[JAVA](https://github.com/urjajindal18/Leetcode/blob/main/Problems/13.%20RomanToIngteger)|
