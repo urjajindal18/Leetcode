@@ -14,3 +14,4 @@
 |13. |[Roamn to Integer](https://leetcode.com/problems/roman-to-integer/)|[JAVA](https://github.com/urjajindal18/Leetcode/blob/main/Problems/13.%20RomanToIngteger)|
 |14. |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[JAVA](https://github.com/urjajindal18/Leetcode/blob/main/Problems/14.%20LongestCommonPrefix)|
 |20. |[Valid Parantheses](https://leetcode.com/problems/valid-parentheses/)|[JAVA](https://github.com/urjajindal18/Leetcode/blob/main/Problems/20.%20Valid%20Parantheses)|
+|237. |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[JAVA](https://github.com/urjajindal18/Leetcode/blob/main/Problems/237.%20Delete%20Node%20in%20a%20LinkedList)|
