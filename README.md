@@ -16,3 +16,4 @@
 |20. |[Valid Parantheses](https://leetcode.com/problems/valid-parentheses/)|[JAVA](https://github.com/urjajindal18/Leetcode/blob/main/Problems/20.%20Valid%20Parantheses.java)|
 |237. |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[JAVA](https://github.com/urjajindal18/Leetcode/blob/main/Problems/237.%20Delete%20Node%20in%20a%20LinkedList.java)|
 |19. |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](https://github.com/urjajindal18/Leetcode/blob/main/Problems/RemoveNthNodeFromEndofList.java)|
+|7. |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](https://github.com/urjajindal18/Leetcode/blob/main/Problems/7.Reverse%20Integer)|
