@@ -18,3 +18,4 @@
 |19. |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](https://github.com/urjajindal18/Leetcode/blob/main/Problems/RemoveNthNodeFromEndofList.java)|
 |7. |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](https://github.com/urjajindal18/Leetcode/blob/main/Problems/7.Reverse%20Integer)|
 |387. |[First Uniquw Character in the string](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](https://github.com/urjajindal18/Leetcode/blob/main/Problems/387.%20First%20Unique%20Character%20in%20a%20String.py)|
+|2331. |[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)|[Java](https://github.com/urjajindal18/Leetcode/tree/main/Problems)|
