@@ -20,3 +20,4 @@
 |387. |[First Uniquw Character in the string](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](https://github.com/urjajindal18/Leetcode/blob/main/Problems/387.%20First%20Unique%20Character%20in%20a%20String.py)|
 |2331. |[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)|[Java](https://github.com/urjajindal18/Leetcode/tree/main/Problems)|
 |58.|[Lenght of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](https://github.com/urjajindal18/Leetcode/blob/main/Problems/58.Length%20of%20Last%20Word.java)|
+|24. |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](https://github.com/urjajindal18/Leetcode/blob/main/Problems/24.%20Swap%20Nodes%20in%20Pairs.java)|
