@@ -19,5 +19,6 @@
 |237. |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[JAVA](https://github.com/urjajindal18/Leetcode/blob/main/Problems/237.%20Delete%20Node%20in%20a%20LinkedList.java)|
 |387. |[First Uniquw Character in the string](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](https://github.com/urjajindal18/Leetcode/blob/main/Problems/387.%20First%20Unique%20Character%20in%20a%20String.py)|
 |876.|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](https://github.com/urjajindal18/Leetcode/blob/main/Problems/876.py)|
+|1207. |[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Python](https://github.com/urjajindal18/Leetcode/blob/main/Problems/1207.%20Unique%20Number%20of%20Occurrences.py)|
 |1290.|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Python](https://github.com/urjajindal18/Leetcode/blob/main/Problems/1290.py)|
 |2331. |[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)|[Java](https://github.com/urjajindal18/Leetcode/tree/main/Problems)|
