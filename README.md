@@ -21,4 +21,5 @@
 |876.|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](https://github.com/urjajindal18/Leetcode/blob/main/Problems/876.py)|
 |1207. |[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Python](https://github.com/urjajindal18/Leetcode/blob/main/Problems/1207.%20Unique%20Number%20of%20Occurrences.py)|
 |1290.|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Python](https://github.com/urjajindal18/Leetcode/blob/main/Problems/1290.py)|
+|1688.|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Java](https://github.com/urjajindal18/Leetcode/blob/main/Problems/1688.%20Count%20of%20Matches%20in%20Tournament.java)|
 |2331. |[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)|[Java](https://github.com/urjajindal18/Leetcode/tree/main/Problems)|
