@@ -8,7 +8,7 @@
 |7. |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](https://github.com/urjajindal18/Leetcode/blob/main/Problems/7.Reverse%20Integer)|
 |9. |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[JAVA](https://github.com/urjajindal18/Leetcode/blob/main/Problems/PalindromNumber.java)| 
 |13. |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[JAVA](https://github.com/urjajindal18/Leetcode/blob/main/Problems/13.%20RomanToIngteger.java)|
-|14. |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[JAVA](https://github.com/urjajindal18/Leetcode/blob/main/Problems/14.%20LongestCommonPrefix.java)|
+|14. |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](https://github.com/urjajindal18/Leetcode/blob/main/Problems/14.%20LongestCommonPrefix.java)|
 |19. |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](https://github.com/urjajindal18/Leetcode/blob/main/Problems/RemoveNthNodeFromEndofList.java)|
 |20. |[Valid Parantheses](https://leetcode.com/problems/valid-parentheses/)|[JAVA](https://github.com/urjajindal18/Leetcode/blob/main/Problems/20.%20Valid%20Parantheses.java)|
 |21. |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/urjajindal18/Leetcode/blob/main/Problems/mergeTwoSortedLists.cpp)| 
