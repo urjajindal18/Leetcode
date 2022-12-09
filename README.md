@@ -1,7 +1,7 @@
 # Leetcode Problems
 
 
-|No. | Problem | Solution|  
+|No.  | Problem | Solution|  
 |-----|---------|---------| 
 |1.| [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/urjajindal18/Leetcode/blob/main/Problems/1.py)|
 |2. |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[JAVA](https://github.com/urjajindal18/Leetcode/blob/main/Problems/AddTwoNumbers.java)|
