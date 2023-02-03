@@ -5,6 +5,7 @@
 |-----|---------|---------| 
 |1.| [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/urjajindal18/Leetcode/blob/main/Problems/1.py)|
 |2. |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[JAVA](https://github.com/urjajindal18/Leetcode/blob/main/Problems/AddTwoNumbers.java)|
+|6.|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Python](https://github.com/urjajindal18/Leetcode/blob/main/Problems/6.%20Zigzag%20Conversion.py)|
 |7. |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](https://github.com/urjajindal18/Leetcode/blob/main/Problems/7.Reverse%20Integer)|
 |9. |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[JAVA](https://github.com/urjajindal18/Leetcode/blob/main/Problems/PalindromNumber.java)| 
 |13. |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[JAVA](https://github.com/urjajindal18/Leetcode/blob/main/Problems/13.%20RomanToIngteger.java)|
