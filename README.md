@@ -16,6 +16,7 @@
 |24. |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](https://github.com/urjajindal18/Leetcode/blob/main/Problems/24.%20Swap%20Nodes%20in%20Pairs.java)|
 |35.|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[Java](https://github.com/urjajindal18/Leetcode/blob/main/Problems/35.%20Search%20Insert%20Position.java)|
 |58.|[Lenght of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](https://github.com/urjajindal18/Leetcode/blob/main/Problems/58.Length%20of%20Last%20Word.java)|
+|70.|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[Java]|
 |83.| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](https://github.com/urjajindal18/Leetcode/blob/main/Problems/83.cpp) |
 |191.|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/?envType=daily-question&envId=2023-11-29)|[Python](https://github.com/urjajindal18/Leetcode/blob/main/Problems/191.%20%20Number%20of%201%20Bits.py)|
 |203.|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C++](https://github.com/urjajindal18/Leetcode/blob/main/Problems/203.cpp)|
