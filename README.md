@@ -17,6 +17,7 @@
 |35.|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[Java](https://github.com/urjajindal18/Leetcode/blob/main/Problems/35.%20Search%20Insert%20Position.java)|
 |58.|[Lenght of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](https://github.com/urjajindal18/Leetcode/blob/main/Problems/58.Length%20of%20Last%20Word.java)|
 |83.| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](https://github.com/urjajindal18/Leetcode/blob/main/Problems/83.cpp) |
+|191.|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/?envType=daily-question&envId=2023-11-29)|[Python](https://github.com/urjajindal18/Leetcode/blob/main/Problems/191.%20%20Number%20of%201%20Bits.py)|
 |203.|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C++](https://github.com/urjajindal18/Leetcode/blob/main/Problems/203.cpp)|
 |237. |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[JAVA](https://github.com/urjajindal18/Leetcode/blob/main/Problems/237.%20Delete%20Node%20in%20a%20LinkedList.java)|
 |387. |[First Uniquw Character in the string](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](https://github.com/urjajindal18/Leetcode/blob/main/Problems/387.%20First%20Unique%20Character%20in%20a%20String.py)|
